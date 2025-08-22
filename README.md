@@ -17,7 +17,7 @@ Hi , I'm Rowan
 
 ## 📫Contact Me
 - 📧 Email: rowannhusseinn@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rowan-hussein
+- 💼 LinkedIn: linkedin.com/in/rowan-hussein-756909328
 <!--
 **rowannhussein86/rowannhussein86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
