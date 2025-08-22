@@ -7,7 +7,7 @@ Hi , I'm Rowan
 - 💡 Passionate about solving real-world problems with data
 - 📊 Exploring **Data Engineering, Machine Learning, and AI**
 - 🤝 Open to collaborations in **tech projects & community work**
-- 🏆 Interested in **Competitive Programming **
+- 🏆 Interested in **Competitive Programming**
 
 ## 🛠️Skills 
 - Python, Java, C++ , OOP
