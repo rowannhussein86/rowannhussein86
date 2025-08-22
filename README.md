@@ -1,8 +1,15 @@
 #### Hi there 👋
 
-2nd-year Data Science student at Alexandria University.  
-Aspiring Data Engineer with interest in Big Data, Cloud, AI, and Machine Learning.  
-Passionate about real-world projects, problem-solving, and Competitive Programming.  
+🎓 2nd-year Data Science student at Alexandria University
+💼 PR Member @ HackerRank FCDS
+💡 Passionate about solving real-world problems with data 
+📊 Exploring **Data Engineering, Machine Learning, and AI** 
+🤝 Open to collaborations in **tech projects & community work** 
+🏆 Interested in **Competitive Programming **
+
+## 📫 Contact Me
+📧 Email: salsabilwaleed15@gmail.com
+💼 LinkedIn: linkedin.com/in/salsabeel
 <!--
 **rowannhussein86/rowannhussein86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
