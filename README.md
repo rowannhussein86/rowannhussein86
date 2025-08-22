@@ -8,8 +8,8 @@
 🏆 Interested in **Competitive Programming **
 
 ## 📫 Contact Me
-📧 Email: salsabilwaleed15@gmail.com
-💼 LinkedIn: linkedin.com/in/salsabeel
+📧 Email: rowannhusseinn@gmail.com
+💼 LinkedIn: linkedin.com/in/rowan-hussein-756909328
 <!--
 **rowannhussein86/rowannhussein86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
