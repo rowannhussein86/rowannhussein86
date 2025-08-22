@@ -16,8 +16,8 @@ Hi , I'm Rowan
 - Problem Solving
 
 ## 📫Contact Me
-- 📧 Email: rowannhusseinn@gmail.com
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowan-hussein-756909328)
+- 📧 Email: [rowannhusseinn@gmail.com](mailto:rowannhusseinn@gmail.com)
+- 🔗 LinkedIn: [Rowan Hussein](https://www.linkedin.com/in/rowan-hussein-756909328)
 <!--
 **rowannhussein86/rowannhussein86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
