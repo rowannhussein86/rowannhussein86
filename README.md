@@ -9,7 +9,13 @@ Hi , I'm Rowan
 - 🤝 Open to collaborations in **tech projects & community work**
 - 🏆 Interested in **Competitive Programming **
 
-## 📫 Contact Me
+## 🛠️Skills 
+- Python, Java, C++ , OOP
+- SQL
+- Pandas, NumPy
+- Problem Solving
+
+## 📫Contact Me
 - 📧 Email: rowannhusseinn@gmail.com
 - 💼 LinkedIn: linkedin.com/in/rowan-hussein-756909328
 <!--
