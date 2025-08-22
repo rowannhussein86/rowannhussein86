@@ -1,5 +1,7 @@
-#### Hi there 👋
+## ✨Where curiosity meets programming💻
+Hi , I'm Rowan 
 
+## 👩‍💻About me
 - 🎓 2nd-year Data Science student at Alexandria University
 - 💼 PR Member @ HackerRank FCDS
 - 💡 Passionate about solving real-world problems with data
