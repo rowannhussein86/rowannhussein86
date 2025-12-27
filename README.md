@@ -3,10 +3,9 @@
 ## ✨ Where curiosity meets programming 💻
 Hi, I'm Rowan Hussein
 
-## 🔗 Connect with Me
-<p align="left">
 <a href="https://www.linkedin.com/in/rowan-hussein-756909328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowan-hussein" height="30" width="40" /></a>
 <a href="https://rowannhussein86.github.io/rowan-hussein.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+
 </p>
 
 </div>
