@@ -7,10 +7,15 @@ Hi, I'm Rowan Hussein
 
 ## 👩‍💻About me
 -  2nd-year Data Science student at Alexandria University
+
 -  PR Member @ HackerRank FCDS
+
 -  Passionate about solving real-world problems with data
+
 -  Exploring **Data Engineering, Data Science, and AI**
+
 -  Open to collaborations in **tech projects & community work**
+
 -  Interested in **Competitive Programming**
 
 ## 🛠️Skills 
