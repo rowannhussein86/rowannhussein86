@@ -8,12 +8,9 @@ Hi, I'm Rowan Hussein
 👩‍💻 About Me
 - Data Science Student @ Alexandria University (2nd Year).
 - ECPC Participant | Passionate about Competitive Programming.
-
-PR Member @ HackerRank FCDS.
-
-Focusing on Data Engineering, DS, and AI.
-
-Open to tech collaborations and community work.
+- PR Member @ HackerRank FCDS.
+- Focusing on Data Engineering, DS, and AI.
+- Open to tech collaborations and community work.
 
 ## 🛠️Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
