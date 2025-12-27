@@ -27,6 +27,9 @@ Hi, I'm Rowan Hussein
 ## 🏆 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rowan86)
 
+## My Works 
+[![Portfolio](https://img.shields.io/badge/View%20My-Portfolio-purple?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rowannhussein86.github.io/rowan-hussein.github.io/)
+
 ## 📫Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowannhusseinn@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowan-hussein-756909328)
