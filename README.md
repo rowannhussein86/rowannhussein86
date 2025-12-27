@@ -3,8 +3,11 @@
 ## ✨ Where curiosity meets programming 💻
 Hi, I'm Rowan Hussein
 
-[![Portfolio](https://img.shields.io/badge/View%20My-Portfolio-purple?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rowannhussein86.github.io/rowan-hussein.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowan-hussein-756909328)
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/rowan-hussein-756909328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowan-hussein" height="30" width="40" /></a>
+<a href="https://rowannhussein86.github.io/rowan-hussein.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+</p>
 
 </div>
 
@@ -32,6 +35,3 @@ Hi, I'm Rowan Hussein
 
 ## 📫Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowannhusseinn@gmail.com)  
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
