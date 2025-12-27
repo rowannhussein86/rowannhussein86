@@ -1,5 +1,7 @@
-## ✨Where curiosity meets programming💻
-Hi , I'm Rowan Hussein
+<div align="center">
+## ✨ Where curiosity meets programming 💻
+Hi, I'm Rowan Hussein
+</div>
 
 ## 👩‍💻About me
 -  2nd-year Data Science student at Alexandria University
