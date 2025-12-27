@@ -1,6 +1,8 @@
 <div align="center">
+
 ## ✨ Where curiosity meets programming 💻
 Hi, I'm Rowan Hussein
+
 </div>
 
 ## 👩‍💻About me
