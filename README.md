@@ -1,5 +1,5 @@
 ## ✨Where curiosity meets programming💻
-Hi , I'm Rowan 
+Hi , I'm Rowan Hussein
 
 ## 👩‍💻About me
 - 🎓 2nd-year Data Science student at Alexandria University
@@ -10,25 +10,17 @@ Hi , I'm Rowan
 - 🏆 Interested in **Competitive Programming**
 
 ## 🛠️Skills 
-- Python, Java, C++ , OOP
-- SQL
-- Pandas, NumPy
-- Problem Solving
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0A0A0A?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 📫Contact Me
 - 📧 Email: [rowannhusseinn@gmail.com](mailto:rowannhusseinn@gmail.com)
 - 🔗 LinkedIn: [Rowan Hussein](https://www.linkedin.com/in/rowan-hussein-756909328)
-<!--
-**rowannhussein86/rowannhussein86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
