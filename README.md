@@ -48,8 +48,8 @@ I love the thrill of problem-solving. My journey in competitive programming has 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Rowan's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/rowannhussein86/rowannhussein86&show_icons=true&theme=radical" alt="Rowan's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rowannhussein86/rowannhussein86&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
