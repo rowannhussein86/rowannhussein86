@@ -2,12 +2,12 @@
 Hi , I'm Rowan Hussein
 
 ## 👩‍💻About me
-- 🎓 2nd-year Data Science student at Alexandria University
-- 💼 PR Member @ HackerRank FCDS
-- 💡 Passionate about solving real-world problems with data
-- 📊 Exploring **Data Engineering, Machine Learning, and AI**
-- 🤝 Open to collaborations in **tech projects & community work**
-- 🏆 Interested in **Competitive Programming**
+-  2nd-year Data Science student at Alexandria University
+-  PR Member @ HackerRank FCDS
+-  Passionate about solving real-world problems with data
+-  Exploring **Data Engineering, Data Science, and AI**
+-  Open to collaborations in **tech projects & community work**
+-  Interested in **Competitive Programming**
 
 ## 🛠️Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,8 +19,10 @@ Hi , I'm Rowan Hussein
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-0A0A0A?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)
+## 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rowan86)
 
 ## 📫Contact Me
-- 📧 Email: [rowannhusseinn@gmail.com](mailto:rowannhusseinn@gmail.com)
-- 🔗 LinkedIn: [Rowan Hussein](https://www.linkedin.com/in/rowan-hussein-756909328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowannhusseinn@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowan-hussein-756909328)
+
